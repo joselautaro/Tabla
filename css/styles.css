@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: azure;
+}
+
+body{
+    background-color: #2b140d;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #8c2842;
+    
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
